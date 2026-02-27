@@ -1,9 +1,8 @@
-## Hi, I'm Carla! ✨
+## Hi, I'm Carla! ♡
 
-🌸 Computing in Interactive Art student<br/>
-🐇 I’m currently learning more about desktop apps and web<br/>
-🌿 You'll see a lot of nature-inspired concepts in my repos<br/>
-💬 I organise with colour to reduce cognitive overload and create better user experiences
+🌸 Computing in Interactive Art student with a passion for creating meaningful, visually engaging web experiences.<br/>
+🐇 Currently deepening my knowledge in desktop apps and web application development.<br/>
+🌿 Colour is at the heart of how I design. I use it purposefully to guide attention, reduce cognitive overload and make interfaces feel effortless.<br/>
 
 
 
